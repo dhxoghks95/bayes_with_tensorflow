@@ -1,6 +1,6 @@
 # bayes_with_tensorflow
 
-(Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)[https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers]
+[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 이 레포는 위의 
 
